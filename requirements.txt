@@ -1,0 +1,8 @@
+langchain-groq
+langgraph
+tavily-python
+fastapi
+uvicorn
+websockets
+python-dotenv
+gitpython

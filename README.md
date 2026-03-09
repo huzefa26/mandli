@@ -1,0 +1,1 @@
+Building a team(mandli) of agents that handle the content creation and SEO of a company's website.
